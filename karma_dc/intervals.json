@@ -1,0 +1,17 @@
+{
+    "thank_others": {
+        "description": "how many users can one user thank in PERIOD hours",
+        "num": 5,
+        "period": 24
+    },
+    "thank_exact_user": {
+        "description": "how othen and how many times can one user thank exact another",
+        "num": 1,
+        "period": 24
+    },
+    "thank_back": {
+        "description": "how many times and how often can one person thank another in back",
+        "num": 1,
+        "period": 1
+    }
+}

@@ -1,0 +1,10 @@
+test.py
+view.py
+backup_app.py
+settings.py
+*.log
+karma_dc/admins.json
+karma_dc/dbtest.py
+*.db
+data/
+__pycache__

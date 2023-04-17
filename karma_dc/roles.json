@@ -1,0 +1,32 @@
+{
+    "no-role": {
+        "low_bound": 0,
+        "upper_bound": 2,
+        "factor": 1,
+        "id": -1
+    },
+    "Sage": {
+        "low_bound": 3,
+        "upper_bound": 19,
+        "factor": 1,
+        "id": 1072929046670872636
+    },
+    "Sage-Adept": {
+        "low_bound": 20,
+        "upper_bound": 99,
+        "factor": 2,
+        "id": 1073207743483236362
+    },
+    "Sage-Expert": {
+        "low_bound": 100,
+        "upper_bound": 299,
+        "factor": 1,
+        "id": 1077981444510588949
+    },
+    "Sage-Guru": {
+        "low_bound": 300,
+        "upper_bound": -1,
+        "factor": 1,
+        "id": 1077981524445630575
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "actions": {
+        "trigger": {
+            "+": {
+                "points": 1
+            }
+        },
+        "include": {
+            "thanks": {
+                "points": 1
+            },
+            "thank you": {
+                "points": 1
+            }
+        }
+    }
+}
